@@ -10,6 +10,3 @@ This is a simple clone application for the popular facebook messenger chat app.
 ### It should look like this: 
 
 <img src="facebook-messenger-image.png" width="700" height="500">
-
-# About 
-gfgfd
