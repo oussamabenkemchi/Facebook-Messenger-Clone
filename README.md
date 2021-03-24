@@ -1,7 +1,7 @@
 # Description
 This is a simple clone application for the popular facebook messenger chat app.
 
-# Technologies
+### Used technologies
   -  React.js
   -  Firebase for realtime database and hosting.
   -  Material-UI
