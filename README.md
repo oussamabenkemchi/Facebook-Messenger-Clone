@@ -9,4 +9,4 @@ This is a simple clone application for the popular facebook messenger chat app.
 
 # It should look like this: 
 
-<img src="https://github.com/oussamabenkemchi/Network_Security_Manager/blob/main/images/NSM_Architecture.png" width="500" height="300">
+<img src="facebook-messenger-image.png" width="700" height="500">
